@@ -1,12 +1,13 @@
 [
    {
-      "name": "Úvodní píseň",
+      "name": "Zemi v rukou máš",
       "start_time": 0,
-      "end_time": 120
+      "end_time": 10
    },
    {
       "name": "Střední píseň",
-      "start_time": 235,
-      "end_time": 1532
+      "artist": "Adorare",
+      "start_time": 10,
+      "end_time": 30
    }
 ]
