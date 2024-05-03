@@ -1,1 +1,12 @@
-{}
+[
+   {
+      "name": "Úvodní píseň",
+      "start_time": 0,
+      "end_time": 120
+   },
+   {
+      "name": "Střední píseň",
+      "start_time": 235,
+      "end_time": 1532
+   }
+]
