@@ -30,5 +30,162 @@
       "artist": "ukazkovy nazev umelce",
       "start_time": "1:22:48",
       "end_time": "1:24:01"
+   },
+   
+   {
+      "name": "Bůh je tak blízko (přídavek 1)",
+      "start_time": "0:41:25",
+      "end_time": "0:45:41"
+   },
+   {
+      "name": "Bárka",
+      "start_time": "0:45:42",
+      "end_time": "0:49:51"
+   },
+   {
+      "name": "Živý je Pán",
+      "start_time": "0:49:52",
+      "end_time": "0:52:21"
+   },
+   {
+      "name": "Boh kochá mě???",
+      "start_time": "0:52:22",
+      "end_time": "0:55:25"
+   },
+   {
+      "name": "Vzácný jsi",
+      "start_time": "0:55:25",
+      "end_time": "0:59:13"
+   },
+   {
+      "name": "Rozdávejme lásku svou",
+      "start_time": "0:59:14",
+      "end_time": "1:00:48"
+   },
+   {
+      "name": "Krokodýl",
+      "start_time": "1:00:49",
+      "end_time": "1:03:40"
+   },
+   {
+      "name": "Buď vládcem mým",
+      "start_time": "1:03:40",
+      "end_time": "1:06:35"
+   },
+   {
+      "name": "Pod ochranu Tvou",
+      "start_time": "1:06:37",
+      "end_time": "1:10:20"
+   },
+   {
+      "name": "Chvalte služebníci",
+      "start_time": "1:10:20",
+      "end_time": "1:16:04"
+   },
+   {
+      "name": "Verný Boh",
+      "start_time": "1:19:25",
+      "end_time": "1:23:17"
+   },
+   {
+      "name": "Báseň",
+      "artist": "Jana Motyčková",
+      "start_time": "1:23:18",
+      "end_time": "1:25:21"
+   },
+   {
+      "name": "Oceány",
+      "artist": "Adorare",
+      "start_time": "1:26:21",
+      "end_time": "1:30:44"
+   },
+   {
+      "name": "Neboj se, já budu s Tebou",
+      "start_time": "1:30:44",
+      "end_time": "1:33:50"
+   },
+   
+   {
+      "name": "On vstal z mrtvých",
+      "start_time": "1:33:50",
+      "end_time": "1:37:05"
+   },
+   {
+      "name": "Smyčcová skladba????",
+      "start_time": "1:37:05",
+      "end_time": "1:41:15"
+   },
+   {
+      "name": "Gabrielův hoboj",
+      "artist": "Ennio Morricone",
+      "start_time": "1:39:15",
+      "end_time": "1:41:26"
+   },
+   {
+      "name": "Tanec",
+      "start_time": "1:42:52",
+      "end_time": "1:46:37"
+   },
+   
+   {
+      "name": "Ty jsi Pán????",
+      "artist": "Šája Pavlová",
+      "start_time": "1:46:37",
+      "end_time": "1:50:41"
+   },
+   {
+      "name": "All I want",
+      "artist": "Kodalin",
+      "start_time": "1:50:41",
+      "end_time": "1:54:04"
+   },
+   {
+      "name": "Rozhovor s vedoucím hudebního týdnu Bc. Petrem Kučerou",
+      "artist": "Paní Kajka",
+      "start_time": "1:54:04",
+      "end_time": "1:57:26"
+   },
+   {
+      "name": "Suita???",
+      "start_time": "1:57:26",
+      "end_time": "1:58:38"
+   },
+   {
+      "name": "Piráti z karibiku",
+      "start_time": "1:58:38",
+      "end_time": "2:00:09"
+   },
+   {
+      "name": "Maříková trio",
+      "start_time": "2:00:09",
+      "end_time": "2:03:26"
+   },
+   {
+      "name": "Kam budeš chtít",
+      "artist": "Vesmírná kapela",
+      "start_time": "2:03:26",
+      "end_time": "2:06:52"
+   },
+   {
+      "name": "ABBA Medley",
+      "artist": "ABBA",
+      "start_time": "2:06:52",
+      "end_time": "2:11:41"
+   },
+   {
+      "name": "Madonna",
+      "start_time": "2:11:41",
+      "end_time": "2:15:28"
+   },
+   {
+      "name": "Bůh je tak blízko (přídavek 2)",
+      "start_time": "2:15:28",
+      "end_time": "2:19:45"
+   },
+      {
+      "name": "Kruhová mříž (přídavek)",
+      "artist": "Adorare",
+      "start_time": "2:19:45",
+      "end_time": "2:23:27"
    }
 ]
