@@ -25,9 +25,10 @@
       "start_time": 834,
       "end_time": 1121
    },
-      {
-      "name": "Neseme na stůl chléb a kalich",
-      "start_time": 834,
-      "end_time": 1121
+   {
+      "name": "ukazkove jsmeno skladby",
+      "artist": "ukazkovy nazev umelce",
+      "start_time": "1:22:48",
+      "end_time": "1:24:01"
    }
 ]
