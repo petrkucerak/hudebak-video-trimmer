@@ -4,6 +4,7 @@ import os
 from moviepy.editor import VideoFileClip
 
 event_name = "Hudební týden 2023"
+threads = 64
 
 if len(sys.argv) < 3:
     print("ERROR", "Input shut be in format main.py <json_path> <video_path>")
@@ -51,4 +52,4 @@ with VideoFileClip("video.mov") as v:
         else:
             video_path = f"{
                 output_folder_path}/{song["name"]} - {event_name}.mp4"
-        subclip.write_videofile(video_path)
+        subclip.write_videofile(video_path, codec="libx264", threads=threads)
