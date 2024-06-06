@@ -1,4 +1,4 @@
-[
+[[
    {
       "name": "Zemi v rukou máš",
       "start_time": "0:00:00",
@@ -112,6 +112,7 @@
    },
    {
       "name": "Chvalte služebníci",
+      "artist": "mse",
       "start_time": "1:10:22",
       "end_time": "1:16:02"
    },
@@ -218,4 +219,4 @@
       "start_time": "2:19:46",
       "end_time": "2:23:27"
    }
-]
+]]
